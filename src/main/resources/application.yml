@@ -1,0 +1,11 @@
+javascript: node
+
+nosqldatabaseprefix: user_database_
+
+databasedriver: com.mysql.jdbc.Driver
+databaseurl: jdbc:mysql://127.0.0.1:3306/processor
+databaseusername: root
+databasepassowrd: mysql
+serverurl: http://127.0.0.1:8080
+
+ziptemplate: app.zip
